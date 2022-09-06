@@ -21,7 +21,7 @@ In 2022, Daniel Ricciardo failed to reach Q3 in 9 of the 14 events to date. Some
 
 For example, during the 2022 Austrian Grand Prix, Norris out-qualified Ricciardo by nearly three-tenths of a second. By examining the time versus speed graph below, it is evident that Norris (pink) can carry a higher minimum speed through the corners (especially in the final sector of the track). He can then get on the throttle earlier, which saves him significant time during the lap.
 
-![image](https://user-images.githubusercontent.com/102626427/188720789-cc95f9ae-8019-4240-8f2a-a211b0b79b81.png)
+![image](https://user-images.githubusercontent.com/102626427/188752290-b94664f0-bb09-4fa7-986f-c4800c8f217d.png)
 
 This graph shows that Ricciardo and Norris' top straight-line speeds are similar. However, there is a considerable delta in their top cornering speed, with Ricciardo losing time to Norris in these areas.
 
@@ -37,9 +37,20 @@ This analysis will also focus on qualifying lap data rather than race lap data. 
 
 ## Analysis
 
-The graph below presents compares the Time vs. Speed of three of Daniel Ricciardo's Monaco laps: his pole position lap in 2018 (1:10.810), his P7 lap in 2019 (1:11.218), and his P12 lap in 2021 (1:11.598). 
+The graph below presents compares the Time vs. Speed of three of Daniel Ricciardo's Monaco laps: his pole position lap in 2018 (1:10.810), his P7 lap in 2019 (1:11.218), and his P12 lap in 2021 (1:11.598).
 
-![image](https://user-images.githubusercontent.com/102626427/188734121-9482b0fb-488e-4e8b-9f98-5f5c67cdb4e6.png)
+![image](https://user-images.githubusercontent.com/102626427/188752546-60733117-6831-4219-84d9-1cdaa550c848.png)
+
+There seems to be very little difference between the speed of each car in the straights. As suspected, the variation in lap time can be found in the track's corners. Ricciardo carries a higher minimum speed in the Red Bull (blue) compared to the McLaren (orange) and the Renault (green). 
+
+As a prime example, the data shows that he exits the final corner much quicker in the Red Bull than in the McLaren. He crosses the finish line before reaching his car's top straight-line speed. He can utilize the Red Bull car's strengths to extract the lowest lap time.
+
+
+If we take the Distance vs Speed graph below, it becomes evident that Ricciardo breaks much later (in terms of distance) in the Red Bull but maintains a higher minimum speed through each corner. This could indicate that he was much more confident on the breaks in 2018 and could get back on the throttle sooner.
+
+![image](https://user-images.githubusercontent.com/102626427/188752564-7105129f-dc0d-4e74-ae64-3c0268ee1095.png)
+
+Ricciardo's shift in style can be attributed to each car's distinct characteristics.
 
 
 ### Red Bull Racing (2014-2018)
@@ -48,7 +59,7 @@ Ricciardo's cars during his prime at Red Bull Racing (RB10, RB11, RB13, RB14) we
 
 The Red Bull Racing cars were also known for their high amounts of front grip and looser back end. Although quick, a car with this setup can be unstable to drive, especially for inexperienced drivers. Turning too suddenly could easily create significant oversteer, often resulting in a spin. Highly skilled drivers learn to use a car's oversteer characteristic to increase cornering speed while maintaining stability.
 
-Although Daniel Ricciardo is known as one of the best later-breakers in Formula 1, this is only true when he overtakes. Over a single lap, the Australian's signature style was to break earlier than most other drivers. This allowed him to decelerate slower without transferring too much load to the front tires. This increased stability in the car and ensured that he could turn quickly and aggressively without inducing oversteer.
+Although Daniel Ricciardo is known as one of the best later-breakers in Formula 1, this is only true when he overtakes. Over a single lap, the Australian's signature style was to break earlier than most other drivers. This allowed him to decelerate slower without transferring too much load to the front tires. His driving style increased stability in the car and ensured that he could turn quickly and aggressively without inducing oversteer.
 
 ### Renault (2019-2020)
 
@@ -56,11 +67,16 @@ Ricciardo struggled to find pace in the Renault in 2019. The car was said to hav
 
 ### McLaren (2021-2022)
 
-Daniel Ricciardo struggled again upon his arrival at McLaren. However, the McLaren car was entirely different to what he had driven at Red Bull and Renault. In fact, both the MCL35M and MCL36 had the opposite setup of what he was used to: more rear grip with a looser front end. In this case, turning too slowly would create a significant amount of understeer, resulting in a missed apex and lost time. 
+Daniel Ricciardo struggled again upon his arrival at McLaren. However, the McLaren car was entirely different from what he had driven at Red Bull and Renault. The MCL35M and MCL36 had the opposite setup of what he was used to: they had more rear grip with a looser front end. Turning too slowly would create a significant amount of understeer in this case, resulting in a missed apex and lost time.
 
+By continuing to use the style he had refined at Red Bull and Renault, Ricciardo underperformed significantly. His teammate Lando Norris has adapted to the car's "tricky" cornering by breaking much more aggressively. The Speed vs. Distance graph below shows Ricciardo reaching his top speed before Norris. In the first sector, Norris breaks much later than Ricciardo and carries a higher minimum speed through the corners.
 
- ## Conclusions
- 
+![image](https://user-images.githubusercontent.com/102626427/188753026-d22273b5-5453-4864-aa6e-a10756f82447.png)
+
+Norris' driving style is cleary more effective in the McLaren. His late breaking transfers more load to the front tires which counters some of the cars natural understeer. He is able to maintain more front-grip though the corners, allowing him to keep the car stable as he reintroduces throttle.
+
+Norris' driving style is best described as the opposite of Ricciardo's. It is evident that a small shift in the Austratian's driving style, as he had accomplished at Renault, would not be sufficient to succeed in the MCL36.
+
  
  ## Sources
  
