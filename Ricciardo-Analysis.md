@@ -12,4 +12,37 @@ Ricciardo made another unexpected career move when he left Renault for McLaren i
 
 ## Introduction
 
-Daniel Ricciardo's sudden decline in performance has been a contentious topic within the Formula 1 community. Many have stated that McLaren's tricky car is to blame for his inconsistency or that he has lost the natural ability he possessed in his early career. In conducting this analysis, I am interested in understanding the reason's behind Ricciardo's poor run of form at McLaren. I will be presenting graphs created using the Python packages FastF1 and Matplotlib. I will base my conclusions on Ricciardo's performances at the Circuit de Monaco.
+Daniel Ricciardo's sudden decline in performance has been a contentious topic within the Formula 1 community. Many have stated that McLaren's tricky car is to blame for his inconsistency or that he has lost the natural ability he possessed in his early career. In conducting this analysis, I am interested in understanding the reason's behind Ricciardo's poor run of form at McLaren. I will be presenting graphs created using the Python packages FastF1 and Matplotlib, and will base my conclusions on Ricciardo's performances at the Circuit de Monaco.
+
+
+## 2022 Performance
+
+In 2022, Daniel Ricciardo failed to reach Q3 in 9 of the 14 events to date. Some of his worst performances occurred at the Bahrain Grand Prix (18th), the Austrian Grand Prix (16th), and the British Grand Prix (14th). All these tracks are medium to high downforce circuits, meaning that cornering speed is more important than engine power.
+
+For example, during the 2022 Austrian Grand Prix, Norris out-qualified Ricciardo by nearly three-tenths of a second. By examining the time versus speed graph below, it is evident that Norris (pink) can carry a higher minimum speed through the corners (especially in the final sector of the track). He can then get on the throttle earlier, which saves him significant time during the lap.
+
+![image](https://user-images.githubusercontent.com/102626427/188720789-cc95f9ae-8019-4240-8f2a-a211b0b79b81.png)
+
+This graph shows that Ricciardo and Norris' top straight-line speeds are similar. However, there is a considerable delta in their top cornering speed, with Ricciardo losing time to Norris in these areas.
+
+
+ ## Circuit de Monaco
+
+The Circuit de Monaco is arguably one of Formula 1's most iconic tracks, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
+ 
+First, since Ricciardo seems to lose more time in slow-speed corners, the tight Circuit de Monaco would lend itself better to this analysis. The Monaco Street Circuit has also undergone no significant changes since 2015. This will help minimize the discrepancy between the lap data over several years. Additionally, Monaco is easily one of Ricciardo's best tracks, demonstrated by his consistently strong performances early in his career. In 2014, Ricciardo finished 3rd in Monte Carlo, followed by 5th in 2015, 2nd in 2016 (where he would have won had he not taken a disastrous pitstop), 3rd in 2017, and 1st in 2018. 
+ 
+This analysis will also focus on qualifying lap data rather than race lap data. During qualifying, a Formula 1 car runs low-fuel and on soft-compound tires to increase single-lap performance. This will give us a better representation of the machinery's ideal performance.
+
+
+ ## Sources
+ 
+ https://en.wikipedia.org/wiki/Daniel_Ricciardo
+ 
+ https://www.motorlat.com/notas/f1/23723/f1-2021-teammate-comparisons-lando-norris-vs-daniel-ricciardo
+ 
+ https://www.youtube.com/watch?v=TVKeBAyIjyw&ab_channel=Driver61
+ 
+ https://www.motorsport.com/f1/news/high-downforce-power-tracks-f1-differences-explained/6130973/
+ 
+ https://en.wikipedia.org/wiki/Circuit_de_Monaco
