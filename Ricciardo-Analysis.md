@@ -26,15 +26,42 @@ For example, during the 2022 Austrian Grand Prix, Norris out-qualified Ricciardo
 This graph shows that Ricciardo and Norris' top straight-line speeds are similar. However, there is a considerable delta in their top cornering speed, with Ricciardo losing time to Norris in these areas.
 
 
- ## Circuit de Monaco
+## Circuit de Monaco
 
 The Circuit de Monaco is arguably one of Formula 1's most iconic tracks, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
  
 First, since Ricciardo seems to lose more time in slow-speed corners, the tight Circuit de Monaco would lend itself better to this analysis. The Monaco Street Circuit has also undergone no significant changes since 2015. This will help minimize the discrepancy between the lap data over several years. Additionally, Monaco is easily one of Ricciardo's best tracks, demonstrated by his consistently strong performances early in his career. In 2014, Ricciardo finished 3rd in Monte Carlo, followed by 5th in 2015, 2nd in 2016 (where he would have won had he not taken a disastrous pitstop), 3rd in 2017, and 1st in 2018. 
  
-This analysis will also focus on qualifying lap data rather than race lap data. During qualifying, a Formula 1 car runs low-fuel and on soft-compound tires to increase single-lap performance. This will give us a better representation of the machinery's ideal performance.
+This analysis will also focus on qualifying lap data rather than race lap data. During qualifying, a Formula 1 car runs low-fuel and on soft-compound tires to increase single-lap speed. This will give us a better representation of the machinery's ideal performance.
 
 
+## Analysis
+
+The graph below presents compares the Time vs. Speed of three of Daniel Ricciardo's Monaco laps: his pole position lap in 2018 (1:10.810), his P7 lap in 2019 (1:11.218), and his P12 lap in 2021 (1:11.598). 
+
+![image](https://user-images.githubusercontent.com/102626427/188734121-9482b0fb-488e-4e8b-9f98-5f5c67cdb4e6.png)
+
+
+### Red Bull Racing (2014-2018)
+
+Ricciardo's cars during his prime at Red Bull Racing (RB10, RB11, RB13, RB14) were not known for their strong engine power. They instead had a robust aerodynamics package which gave them significantly more raw downforce than most other teams. This meant the cars were quick in the corners but slower in the straights. The key to being fast in a Red Bull was to extract as much time as possible in the corners.
+
+The Red Bull Racing cars were also known for their high amounts of front grip and looser back end. Although quick, a car with this setup can be unstable to drive, especially for inexperienced drivers. Turning too suddenly could easily create significant oversteer, often resulting in a spin. Highly skilled drivers learn to use a car's oversteer characteristic to increase cornering speed while maintaining stability.
+
+Although Daniel Ricciardo is known as one of the best later-breakers in Formula 1, this is only true when he overtakes. Over a single lap, the Australian's signature style was to break earlier than most other drivers. This allowed him to decelerate slower without transferring too much load to the front tires. This increased stability in the car and ensured that he could turn quickly and aggressively without inducing oversteer.
+
+### Renault (2019-2020)
+
+Ricciardo struggled to find pace in the Renault in 2019. The car was said to have less front grip than the Red Bull but still maintained some of the same oversteer characteristics. By 2020, Ricciardo had regained confidence in the car and delivered some impressive performances for the team. It seems that he was able to adapt to the new setup after adjusting his driving style to suit the R.S.19 and R.S.20.
+
+### McLaren (2021-2022)
+
+Daniel Ricciardo struggled again upon his arrival at McLaren. However, the McLaren car was entirely different to what he had driven at Red Bull and Renault. In fact, both the MCL35M and MCL36 had the opposite setup of what he was used to: more rear grip with a looser front end. In this case, turning too slowly would create a significant amount of understeer, resulting in a missed apex and lost time. 
+
+
+ ## Conclusions
+ 
+ 
  ## Sources
  
  https://en.wikipedia.org/wiki/Daniel_Ricciardo
@@ -46,3 +73,5 @@ This analysis will also focus on qualifying lap data rather than race lap data. 
  https://www.motorsport.com/f1/news/high-downforce-power-tracks-f1-differences-explained/6130973/
  
  https://en.wikipedia.org/wiki/Circuit_de_Monaco
+ 
+ https://www.formula1-dictionary.net/oversteer.html
