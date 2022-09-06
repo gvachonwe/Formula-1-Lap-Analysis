@@ -53,7 +53,7 @@ If we take the Distance vs Speed graph below, it becomes evident that Ricciardo 
 Ricciardo's shift in style can be attributed to each car's distinct characteristics.
 
 
-### Red Bull Racing (2014-2018)
+### Red Bull Racing (2014–2018)
 
 Ricciardo's cars during his prime at Red Bull Racing (RB10, RB11, RB13, RB14) were not known for their strong engine power. They instead had a robust aerodynamics package which gave them significantly more raw downforce than most other teams. This meant the cars were quick in the corners but slower in the straights. The key to being fast in a Red Bull was to extract as much time as possible in the corners.
 
@@ -61,11 +61,11 @@ The Red Bull Racing cars were also known for their high amounts of front grip an
 
 Although Daniel Ricciardo is known as one of the best later-breakers in Formula 1, this is only true when he overtakes. Over a single lap, the Australian's signature style was to break earlier than most other drivers. This allowed him to decelerate slower without transferring too much load to the front tires. His driving style increased stability in the car and ensured that he could turn quickly and aggressively without inducing oversteer.
 
-### Renault (2019-2020)
+### Renault (2019–2020)
 
 Ricciardo struggled to find pace in the Renault in 2019. The car was said to have less front grip than the Red Bull but still maintained some of the same oversteer characteristics. By 2020, Ricciardo had regained confidence in the car and delivered some impressive performances for the team. It seems that he was able to adapt to the new setup after adjusting his driving style to suit the R.S.19 and R.S.20.
 
-### McLaren (2021-2022)
+### McLaren (2021–2022)
 
 Daniel Ricciardo struggled again upon his arrival at McLaren. However, the McLaren car was entirely different from what he had driven at Red Bull and Renault. The MCL35M and MCL36 had the opposite setup of what he was used to: they had more rear grip with a looser front end. Turning too slowly would create a significant amount of understeer in this case, resulting in a missed apex and lost time.
 
@@ -77,8 +77,19 @@ Norris' driving style is cleary more effective in the McLaren. His late breaking
 
 Norris' driving style is best described as the opposite of Ricciardo's. It is evident that a small shift in the Austratian's driving style, as he had accomplished at Renault, would not be sufficient to succeed in the MCL36.
 
+
+## Conclusions
+
+This analysis has shown that Daniel Ricciardo's poor run of form at McLaren is due primarily to his inability to adapt his driving style to account for understeer. His technique of breaking early to maintain rear grip and stability was ideal at Red Bull and Renault but has proven ineffective in the MCL35M and MCL36. 
+
+His current teammate Lando Norris, who has expressed distaste for the McLaren car's tendency to understeer, has changed his technique to overcome the challenge. Had Ricciardo switched between both setups earlier in his career, he may have been able to adjust adequately. However, after developing his style for eight years, he has been unable to find his footing in a car with low front grip.
  
+
  ## Sources
+ 
+ https://en.wikipedia.org/wiki/Circuit_de_Monaco
+ 
+ https://www.formula1-dictionary.net/oversteer.html
  
  https://en.wikipedia.org/wiki/Daniel_Ricciardo
  
@@ -87,7 +98,3 @@ Norris' driving style is best described as the opposite of Ricciardo's. It is ev
  https://www.youtube.com/watch?v=TVKeBAyIjyw&ab_channel=Driver61
  
  https://www.motorsport.com/f1/news/high-downforce-power-tracks-f1-differences-explained/6130973/
- 
- https://en.wikipedia.org/wiki/Circuit_de_Monaco
- 
- https://www.formula1-dictionary.net/oversteer.html
