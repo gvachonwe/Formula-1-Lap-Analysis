@@ -75,7 +75,7 @@ By continuing to use the style he had refined at Red Bull and Renault, Ricciardo
 
 Norris' driving style is cleary more effective in the McLaren. His late breaking transfers more load to the front tires which counters some of the cars natural understeer. He is able to maintain more front-grip though the corners, allowing him to keep the car stable as he reintroduces throttle.
 
-Norris' driving style is best described as the opposite of Ricciardo's. It is evident that a small shift in the Austratian's driving style, as he had accomplished at Renault, would not be sufficient to succeed in the MCL36.
+Norris' technique is best described as the opposite of Ricciardo's. It is evident that a small shift in the Austratian's driving style, as he had accomplished at Renault, would not be sufficient to succeed in the MCL36.
 
 
 ## Conclusions
