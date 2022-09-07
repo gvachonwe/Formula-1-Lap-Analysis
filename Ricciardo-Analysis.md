@@ -43,7 +43,7 @@ The graph below presents compares the Time vs. Speed of three of Daniel Ricciard
 
 There seems to be very little difference between the speed of each car in the straights. As suspected, the variation in lap time can be found in the track's corners. Ricciardo carries a higher minimum speed in the Red Bull (blue) compared to the McLaren (orange) and the Renault (green). 
 
-As a prime example, the data shows that he exits the final corner much quicker in the Red Bull than in the McLaren. He crosses the finish line before reaching his car's top straight-line speed. He can utilize the Red Bull car's strengths to extract the lowest lap time.
+As a prime example, the data shows that he exits the final corner much quicker in the Red Bull than in the McLaren. He crosses the finish line before reaching his car's top straight-line speed. In 2018, he can utilize the Red Bull car's strengths to extract the lowest lap time.
 
 
 If we take the Distance vs Speed graph below, it becomes evident that Ricciardo breaks much later (in terms of distance) in the Red Bull but maintains a higher minimum speed through each corner. This could indicate that he was much more confident on the breaks in 2018 and could get back on the throttle sooner.
