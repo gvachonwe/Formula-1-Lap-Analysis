@@ -15,7 +15,7 @@ Ricciardo made another unexpected career move when he left Renault for McLaren i
 Daniel Ricciardo's sudden decline in performance has been a contentious topic within the Formula 1 community. Many have stated that McLaren's tricky car is to blame for his inconsistency or that he has lost the natural ability he possessed in his early career. In conducting this analysis, I am interested in understanding the reason's behind Ricciardo's poor run of form at McLaren. I will be presenting graphs created using the Python packages FastF1 and Matplotlib, and will base my conclusions on Ricciardo's performances at the Circuit de Monaco.
 
 
-## 2022 Performance
+## Performance in 2022
 
 In 2022, Daniel Ricciardo failed to reach Q3 in 9 of the 14 events to date. Some of his worst performances occurred at the Bahrain Grand Prix (18th), the Austrian Grand Prix (16th), and the British Grand Prix (14th). All these tracks are medium to high downforce circuits, meaning that cornering speed is more important than engine power.
 
