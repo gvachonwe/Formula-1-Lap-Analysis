@@ -32,7 +32,7 @@ The Circuit de Monaco is arguably one of Formula 1's most iconic tracks, known f
  
 First, since Ricciardo seems to lose more time in slow-speed corners, the tight Circuit de Monaco would lend itself better to this analysis. The Monaco Street Circuit has also undergone no significant changes since 2015. This will help minimize the discrepancy between the lap data over several years. Additionally, Monaco is easily one of Ricciardo's best tracks, demonstrated by his consistently strong performances early in his career. In 2014, Ricciardo finished 3rd in Monte Carlo, followed by 5th in 2015, 2nd in 2016 (where he would have won had he not taken a disastrous pitstop), 3rd in 2017, and 1st in 2018. 
  
-This analysis will also focus on qualifying lap data rather than race lap data. During qualifying, a Formula 1 car runs low-fuel and on soft-compound tires to increase single-lap speed. This will give us a better representation of the machinery's ideal performance.
+This analysis will also focus on qualifying lap data rather than race lap data. During qualifying, a Formula 1 car runs on low-fuel and soft-compound tires to increase single-lap speed. This will give us a better representation of the machinery's ideal performance.
 
 
 ## Analysis
