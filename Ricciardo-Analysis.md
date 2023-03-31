@@ -67,7 +67,7 @@ Ricciardo struggled to find pace in the Renault in 2019. The car was said to hav
 
 ### McLaren (2021–2022)
 
-Daniel Ricciardo struggled again upon his arrival at McLaren. However, the McLaren car was entirely different from what he had driven at Red Bull and Renault. The MCL35M and MCL36 had the opposite setup of what he was used to: they had more rear grip with a looser front end. Turning too slowly would create a significant amount of understeer in this case, resulting in a missed apex and lost time.
+Daniel Ricciardo struggled again upon his arrival at McLaren. However, the new car was entirely different from what he had driven at Red Bull and Renault. The MCL35M and MCL36 had the opposite setup of what he was used to: they had more rear grip with a looser front end. Turning too slowly would create a significant amount of understeer in this case, resulting in a missed apex and lost time.
 
 By continuing to use the style he had refined at Red Bull and Renault, Ricciardo underperformed significantly. His teammate Lando Norris has adapted to the car's "tricky" cornering by breaking much more aggressively. The Speed vs. Distance graph below shows Ricciardo reaching his top speed before Norris. In the first sector, Norris breaks much later than Ricciardo and carries a higher minimum speed through the corners.
 
