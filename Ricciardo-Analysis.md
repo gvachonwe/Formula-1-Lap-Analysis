@@ -28,7 +28,7 @@ This graph shows that Ricciardo and Norris' top straight-line speeds are similar
 
 ## Circuit de Monaco
 
-The Circuit de Monaco is arguably one of Formula 1's most iconic tracks, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
+The Circuit de Monaco is undoubtedly one of Formula 1's most iconic tracks, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
  
 First, since Ricciardo seems to lose more time in slow-speed corners, the tight Circuit de Monaco would lend itself better to this analysis. The Monaco Street Circuit has also undergone no significant changes since 2015. This will help minimize the discrepancy between the lap data over several years. Additionally, Monaco is easily one of Ricciardo's best tracks, demonstrated by his consistently strong performances early in his career. In 2014, Ricciardo finished 3rd in Monte Carlo, followed by 5th in 2015, 2nd in 2016 (where he would have won had he not taken a disastrous pitstop), 3rd in 2017, and 1st in 2018. 
  
