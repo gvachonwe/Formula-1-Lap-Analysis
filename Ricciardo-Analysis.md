@@ -28,7 +28,7 @@ This graph shows that Ricciardo and Norris' top straight-line speeds are similar
 
 ## Circuit de Monaco
 
-The Circuit de Monaco is undoubtedly one of Formula 1's most iconic tracks, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
+The Circuit de Monaco is undoubtedly Formula 1's most iconic track, known for its tight and slow corners, difficult overtaking, and beautiful views. I will use the Monaco Circuit as the basis for my analysis for reasons beyond its notoriety.
  
 First, since Ricciardo seems to lose more time in slow-speed corners, the tight Circuit de Monaco would lend itself better to this analysis. The Monaco Street Circuit has also undergone no significant changes since 2015. This will help minimize the discrepancy between the lap data over several years. Additionally, Monaco is easily one of Ricciardo's best tracks, demonstrated by his consistently strong performances early in his career. In 2014, Ricciardo finished 3rd in Monte Carlo, followed by 5th in 2015, 2nd in 2016 (where he would have won had he not taken a disastrous pitstop), 3rd in 2017, and 1st in 2018. 
  
@@ -55,7 +55,7 @@ Ricciardo's shift in style can be attributed to each car's distinct characterist
 
 ### Red Bull Racing (2014–2018)
 
-Ricciardo's cars during his prime at Red Bull Racing (RB10, RB11, RB13, RB14) were not known for their strong engine power. They instead had a robust aerodynamics package which gave them significantly more raw downforce than most other teams. This meant the cars were quick in the corners but slower in the straights. The key to being fast in a Red Bull was to extract as much time as possible in the corners.
+Ricciardo's cars during his prime at Red Bull Racing (RB10, RB11, RB13, RB14) were not known for their strong engine power. They instead had a robust aerodynamic package which gave them significantly more raw downforce than most other teams. This meant the cars were quick in the corners but slower in the straights. The key to being fast in a Red Bull was to extract as much time as possible in the corners.
 
 The Red Bull Racing cars were also known for their high amounts of front grip and looser back end. Although quick, a car with this setup can be unstable to drive, especially for inexperienced drivers. Turning too suddenly could easily create significant oversteer, often resulting in a spin. Highly skilled drivers learn to use a car's oversteer characteristic to increase cornering speed while maintaining stability.
 
